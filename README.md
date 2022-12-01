@@ -30,9 +30,9 @@ git clone https://github.com/danielmiessler/SecLists
 ## Installation
 
 1. Clone the repository like so `git clone git@github.com:almroot/ai.py.git`
-2. You must have an [OpenAI account](https://openai.com/blog/openai-api/) to get access to [GPT-3](https://www.youtube.com/watch?v=Te5rOTcE4J4).
+2. You must have an [OpenAI account](https://openai.com/blog/openai-api/) to get access to [GPT-3](https://www.youtube.com/watch?v=Te5rOTcE4J4)
 3. Sign in and grab your [API key](https://beta.openai.com/account/api-keys)
-4. In order to use the script, set the environment variable `OPENAI_API_KEY` to the key.
+4. In order to use the script, set the environment variable `OPENAI_API_KEY` to the key
 
 ## Recommended Python Version
 
