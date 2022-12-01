@@ -45,6 +45,7 @@ The script depends on the `openai` and `numpy` python modules.
 These dependencies can be installed using the requirements file:
 
 ```
-sudo pip install -r requirements.txt
+almroot@x:~(main)$ ai install python dependencies
+pip install -r requirements.txt
 ```
 
