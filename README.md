@@ -1,5 +1,5 @@
 # ai.py
-Command line utility tweaked to deliver bash-one liners to your question, based on the [GPT-3](https://www.youtube.com/watch?v=Te5rOTcE4J4) artificial intelligence.
+Command line utility tweaked to deliver bash-one liners to your question, based on the [GPT-3](https://www.youtube.com/watch?v=Te5rOTcE4J4) model.
 
 ## Usage
 
